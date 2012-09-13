@@ -1,0 +1,12 @@
+# ./testLexicalCast
+nA = 123456
+dB = 123.456
+sC = 234.56
+fD = 456.78
+fD = 456.78
+bad lexical cast: source type value could not be interpreted as target
+dE = 0
+bad lexical cast: source type value could not be interpreted as target
+nF = 0
+sG = 123.123456789
+dH = 123.123
